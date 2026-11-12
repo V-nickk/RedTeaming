@@ -23,4 +23,3 @@ while True:
           print("Negative Even")
         else :
             print("Negative Odd")
-            
